@@ -21,6 +21,20 @@
 
 Answer => (4)
 
+/----------------------/ 
+
+    Q.Analyze the site in the instructor notes. Which function take longer to run?
+
+    1. OnSortOne
+
+    2. OnSortTwo
+
+Answer => (1)
+
+/----------------------/ 
+
+    Q.
+
  */
 
 function animate() {
@@ -29,5 +43,5 @@ function animate() {
 
 requestAnimationFrame(animate);
 
-
+ 
   
